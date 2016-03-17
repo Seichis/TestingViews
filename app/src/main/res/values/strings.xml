@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestingViews</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_folding_layout">FoldingLayout</string>
+    <string name="title_activity_unfoldable_details">UnfoldableDetailsActivity</string>
+    <string name="year">Year</string>
+    <string name="location">Location</string>
+    <string name="hint_emailorcredit">your email or creditcard number</string>
+</resources>
